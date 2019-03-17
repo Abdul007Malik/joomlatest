@@ -38,4 +38,11 @@ class MenusController extends JControllerLegacy
 
 		parent::__construct($config);
 	}
+	
+	public function mychanges(){
+		/*these are the changes just to see if any project that clone this repo will be updated or not with this
+		new changes
+		
+		*/
+	}
 }
